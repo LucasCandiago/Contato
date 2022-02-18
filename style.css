@@ -10,6 +10,9 @@ header {
     color: white;
     padding-top: 10px;
     text-shadow: 2px 2px 7px black;
+    min-width: 450px;
+    max-width: 850px;
+    margin: auto;
 }
 
 main {
