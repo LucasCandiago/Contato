@@ -43,3 +43,12 @@ main > h2 {
 .Contato > h2 {
     text-align: center;
 }
+
+.Contato  a {
+    text-decoration: none;
+    color: blue;
+}
+
+.Contato a:hover {
+    text-decoration: underline;
+}
